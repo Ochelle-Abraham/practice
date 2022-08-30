@@ -1,0 +1,37 @@
+
+.closer{
+    margin-top: 200px;
+    background: hsl(253, 90%, 4%);
+    color: white;
+
+}
+
+.closer p{
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.scra{
+    margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+}
+
+.scra ul{
+    list-style: none;
+}
+/* .box-1{
+    flex: 1;
+}
+
+.box-2{
+    flex: 1;
+}
+
+
+.box-4{
+    flex: 1;
+} */
